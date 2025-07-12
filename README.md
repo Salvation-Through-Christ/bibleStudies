@@ -1,2 +1,2 @@
 # bibleStudies
-Portfolio of the Bible studies I have written.
+Creating a database of all the Bible Studies I write in order to be able to use them in future ministeries
